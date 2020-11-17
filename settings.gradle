@@ -1,0 +1,3 @@
+include ':fftlibrary'
+include ':app'
+rootProject.name = "AudioAnalyzer"
